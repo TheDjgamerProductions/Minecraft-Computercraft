@@ -15,7 +15,7 @@
 
 <p>
 
-- [Turtle Install](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/main/Turtles/Farming#Demo)
+- [Turtle Install](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/main/Turtles/Farming#turtle-install-guide)
 - [Turtle Config](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/main/Turtles/Farming#Demo)
 
 </p>
@@ -42,9 +42,14 @@
 
 
 # Install and Config Guide
+<h3>Turtle Install Guide</h3>  <details> <summary></summary>
 
-<details> <summary> <h3>Turtle Install Guide</h3> </summary>
-
+<p>
+  
+  Test
+  
+  
+  </p>
 
 </details>
 
