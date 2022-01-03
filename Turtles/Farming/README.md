@@ -43,7 +43,7 @@
 
 # Install and Config Guide
 
-<details> <summary> <h3> Turtle Install Guide </h3> </summary>
+<details> <summary> <h3>Turtle Install Guide</h3> </summary>
 
 
 </details>
