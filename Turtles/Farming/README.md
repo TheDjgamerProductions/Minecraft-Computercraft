@@ -7,16 +7,16 @@
 
 
 
--[Description](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/main/Turtles/Farming#Description)
+-[Description](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/blob/main/Turtles/Farming/README.md#Description)
 
--[Demo](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/main/Turtles/Farming#Demo)
+-[Demo](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/blob/main/Turtles/Farming/README.md#demo)
 
 <details> <summary> Install and Config Guide </summary>
 
 <p>
 
-- [Turtle Install](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/main/Turtles/Farming#turtle-install-guide)
-- [Turtle Config](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/main/Turtles/Farming#Demo)
+- [Turtle Install](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/blob/main/Turtles/Farming/README.md#turtle-install-guide)
+- [Turtle Config](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/blob/main/Turtles/Farming/README.md#turtle-config-guide)
 
 </p>
 
@@ -46,11 +46,21 @@
 
 <p>
   
-  Test
   
   
-  </p>
+</p>
 
 </details>
+
+<h3>Turtle Config Guide</h3>  <details> <summary></summary>
+
+<p>
+  
+  
+  
+</p>
+
+</details>
+
 
 
