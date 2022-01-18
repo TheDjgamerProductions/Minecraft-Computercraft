@@ -3,7 +3,7 @@ rednet.open("right")
 
 
 -- User Modifyable Varables
-preSteps = 2
+preSteps = 2 -- Steps taken before harvesting 
 steps = 7
 fuelSource = "minecraft:coal"
 seedType = "minecraft:wheat_seeds"
