@@ -24,8 +24,8 @@
 -->
 
 
-  
-  
+
+
 
 # Description
 <p>
@@ -33,7 +33,7 @@ This is a turtle script that will auto farm crops in a line.
 <br>The turtle will go forward in a straight line for how ever long the user wants it to go for, the user can also set what kind of crop they want to harvest, and what seed the turtle should plant.
 <br>
 
-  
+
 
 </p>
 
@@ -45,25 +45,29 @@ This is a turtle script that will auto farm crops in a line.
 
 
 # Install and Config Guide
-<h3>Turtle Install Guide</h3>  <details> <summary></summary>
 
-<p>
+<details> <summary><h3>Turtles</h3></summary>
+
+
+<details> <summary><h3>Turtle Install Guide</h3></summary>
+
+# Pre-setup
+
+# Installing
+* Step 1: Upload the [Turtle.lua](https://github.com/TheDjgamerProductions/Minecraft-Computercraft/blob/main/Turtles/Farming/Turtle.lua) file to [Pastebin](https://pastebin.com/)
+* Step 2: Inside the Turtle type `COMMAND GOES HERE`
+* Step 3:
+
+
   
-  
-  
-</p>
+# End
+</details>
+
+<details> <summary><h3>Turtle Config Guide</h3></summary>
+
+# End
+</details>
 
 </details>
 
-<h3>Turtle Config Guide</h3>  <details> <summary></summary>
-
-<p>
-  
-  
-  
-</p>
-
-</details>
-
-
-
+- - - -
