@@ -32,7 +32,7 @@
 This is a turtle script that will auto farm crops in a line.
 <br>The turtle will go forward in a straight line for how ever long the user wants it to go for, the user can also set what kind of crop they want to harvest, and what seed the turtle should plant.
 <br>
-<br> The turtle can (SOON) also relay info like current fuel level, amount of corps harvested to another computer
+
   
 
 </p>
